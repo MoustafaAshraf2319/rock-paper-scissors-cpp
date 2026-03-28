@@ -1,8 +1,8 @@
 # rock-paper-scissors-cpp
 Simple C++ console game: Stone-Paper-Scissors. Play against the computer with rounds and winner tracking.
-# Stone, Paper, Scissors Game (C++)
+# Rock, Paper, Scissors Game (C++)
 
-A robust, console-based implementation of the classic **Stone, Paper, Scissors** game, developed as part of my C++ learning journey. This project focuses on applying clean code principles, structured programming, and logical game flow.
+A robust, console-based implementation of the classic **Rock, Paper, Scissors** game, developed as part of my C++ learning journey. This project focuses on applying clean code principles, structured programming, and logical game flow.
 
 ## 🚀 Key Features
 - **Dynamic Rounds:** Players can choose between 1 to 10 rounds per game.
